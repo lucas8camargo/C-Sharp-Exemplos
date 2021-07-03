@@ -14,14 +14,19 @@ namespace classe_math
             
             // Recebe dois valores, retorna o maior.
             int max = Math.Max(8, 3);
+
             // Recebe dois valores, retorna o menor.
             int min = Math.Min(10, 26);
+
             // Retorna o valor arredondado seguindo a regra de arredondamento.
             double round = Math.Round(37.47);
+
             // Retorna o valor arredondado para baixo.
             double floor = Math.Floor(37.47);
+            
             // Retorna o valor arredondado para cima.
             double ceiling = Math.Ceiling(37.47);
+
             // Resultados
             Console.WriteLine($"Potência: {pow}");
             Console.WriteLine($"Raiz quadrada: {sqrt}");
