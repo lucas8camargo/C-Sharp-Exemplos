@@ -1,2 +1,1 @@
-# C-Sharp-Exemplos
-Exemplos diversos da linguagem C#
+# Exemplos diversos da linguagem C#
