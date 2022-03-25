@@ -1,0 +1,8 @@
+C:\Users\Lucas\source\repos\SampleSynthesis\SampleSynthesis\bin\Debug\SampleSynthesis.exe.config
+C:\Users\Lucas\source\repos\SampleSynthesis\SampleSynthesis\bin\Debug\SampleSynthesis.exe
+C:\Users\Lucas\source\repos\SampleSynthesis\SampleSynthesis\bin\Debug\SampleSynthesis.pdb
+C:\Users\Lucas\source\repos\SampleSynthesis\SampleSynthesis\obj\Debug\SampleSynthesis.csproj.AssemblyReference.cache
+C:\Users\Lucas\source\repos\SampleSynthesis\SampleSynthesis\obj\Debug\SampleSynthesis.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lucas\source\repos\SampleSynthesis\SampleSynthesis\obj\Debug\SampleSynthesis.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\source\repos\SampleSynthesis\SampleSynthesis\obj\Debug\SampleSynthesis.exe
+C:\Users\Lucas\source\repos\SampleSynthesis\SampleSynthesis\obj\Debug\SampleSynthesis.pdb
